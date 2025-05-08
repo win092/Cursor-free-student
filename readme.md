@@ -1,10 +1,10 @@
-# cursor Pro 激活选择中国学校脚本
+# cursor 100%激活1年 -- 《最后的晚餐》
 
 【参考认证文档】CursorPro最新激活一年的方法！
 
 https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
-## 一、中国学校激活 - 操作步骤：
+## 一、中国学校选项激活 - 操作步骤：
 
 把我的js脚本导入到浏览器 油猴（篡改猴中） 按住shift 刷新认证的国家选择的页面，发现可以选择 china 甚至所有的中国学校都能出来了！  包括985
 
