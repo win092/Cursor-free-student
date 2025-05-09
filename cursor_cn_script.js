@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  将SheerID验证服务的响应中添加CN（中国）国家代码
-// @author       微信：zhrmghwsa
+// @author       微信：zhrmghwsa. qq群：959156993
 // @match        https://my.sheerid.com/*
 // @match        https://*.sheerid.com/*
 // @match        https://www.cursor.com/cn/student*

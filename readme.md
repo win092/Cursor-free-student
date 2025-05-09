@@ -14,9 +14,11 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
 
 
-2025年5月7日 运行效果 ↓
+稳定脚本 2025年5月7日 运行效果 ↓
 
 注意重新打开认证界面，看到我的js脚本激活说明成功了，可以选择china
+
+​	如果没有触发就 **关闭浏览器重新打开认证界面**
 
 ![74667183279](readme.assets/1746671832794.png)
 
@@ -24,7 +26,7 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
 
 
-## 二、2025年5月8日 22点31分 100%成功的方法
+## 二、2025年5月8日 23点51分 100%成功的方法
 
 核心步骤：
 
@@ -36,7 +38,8 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
 流程：
 科技云注册成功后，会有这个提示：
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=NGFjNzhhNTBkZmY0OGI1YTk1YmU4NzliNmVhZWFhOGFfaENOMXdPbzdiMUNQbk9XeUdPTkFhU3ZjMXhKMUt4blZfVG9rZW46RXVtTWJHQ3h2b2Uxd014bWMxYWNud2xxbmVoXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+![74677016436](readme.assets/1746770164366.png)
+
 接下来：点verifu status
 注意：一定选中国科学院半导体研究所，最下面的邮箱填自己edu邮箱（注：如果自己edu没有收到邮件，那就是被学校吞了；你只能换edu邮箱，要么买要么借：《
 ![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=NGIwMzY3YzRjNTRlOWU0ODlmNTFlOWFkYTdlMzFjOTJfdDNaUFM2amRvUVZZZEd4MHVoOWp2czFJaVppaGtWTnRfVG9rZW46U3JwMGIwcWx2bzNEMmV4Mm5pZWNhUzZKbmRnXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
@@ -55,28 +58,37 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
 1. **看edu邮件：点击apply discount：**
 
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=OTQ5OTE2MGI3MjUyZjY2ZWU2MDc0Yzc4ZjI5YzFkZWNfVFdJQ0ZRSTBaU3dhcEQzTjlFQzFNZHcwR2tXU3pDYThfVG9rZW46TUFuNWIwNEdHbzFsYlJ4cFRETWNnOTVEbmdiXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+![74677022037](readme.assets/1746770220379.png)
+
+
+
 1. 填写支付宝付款信息时，地址全部写满！
 
 出现0元时，才算成功！否则会扣款！记得把“采用每年计费周期开关打开”～（图上为关闭状态）
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=ODliZDUwYTlhZTk5NGRlNTc5ODkyMjk0NzgxM2I4OGZfaVlzMFNiVG5ITWVjODd1VUFmUmZ5b0hxZDlJSG9mME5fVG9rZW46VlkwMGJHbWo3b1J0YW94cXhLRGNQWGRZbmdjXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+![image](readme.assets/1746770245024.png)
 扫码付款（这一步无法继续的，请把网址在手机或ipad打开，更新支付宝，然后扫码提交即可
 
 
+
+---
 
 ## 三、学生认证其他问题加入qq交流群
 
 
 
-群号是 ： ~~811966302~~ 满了  进入：915539110 （请备注GitHub）
+群号是 ： ~~811966302~~ 满了  进入：915539110 （请备注GitHub+id 优先通过）
 
 ~~[74662927475](readme.assets/1746629274756.png) 失效群1图片~~
 
-2025年5月8日 下午起 进新群 👇
-
-![74668560068](readme.assets/1746685600686.png)
+~~[74668560068](readme.assets/1746685600686.png) 又满人了~~
 
 
+
+**2025年5月9日 下午起 进新群 👇** 请给我点击右上角 star~
+
+5-9 新群号： 959156993
+
+![74677001329](readme.assets/1746770013297.png)
 
 
 公众号链接，欢迎点赞： [5月7日晚 CursorPro最新激活一年的方法！稀缺资源，手慢无！](https://mp.weixin.qq.com/s/htpMwxJT73L-hQwJ7ritHA)
