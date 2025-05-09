@@ -41,18 +41,26 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 ![74677016436](readme.assets/1746770164366.png)
 
 接下来：点verifu status
-注意：一定选中国科学院半导体研究所，最下面的邮箱填自己edu邮箱（注：如果自己edu没有收到邮件，那就是被学校吞了；你只能换edu邮箱，要么买要么借：《
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=NGIwMzY3YzRjNTRlOWU0ODlmNTFlOWFkYTdlMzFjOTJfdDNaUFM2amRvUVZZZEd4MHVoOWp2czFJaVppaGtWTnRfVG9rZW46U3JwMGIwcWx2bzNEMmV4Mm5pZWNhUzZKbmRnXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+注意：一定选中国科学院半导体研究所，最下面的邮箱填自己edu邮箱（注：如果自己edu没有收到邮件，那就是被学校吞了；你只能换edu邮箱，要么买要么借：
+
+![74677416403](readme.assets/1746774164039.png)
+
 提交。
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=Njc4ZDdmZWE3NGUxMzUyOGZjNjI3ZDgwNzJhMGZjYTZfa05VVWYzTDVqSUhqNEdQVmZYeWZZMTQ1ZkV1dGhzajRfVG9rZW46TXpFVWJzVHFLb0JCYUR4SExSb2NLY3ZHbm5oXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+
+![74677418242](readme.assets/1746774182426.png)
+
 进自己邮箱找一下链接：
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=NzM4NTY1MGNhZmU2OThlMThhOGRhYTlhMjY0MWY5N2NfUkdUMUtPM2Y1ajR4UGJVWFFPeHJlZ3YyRW1ZMFppMDRfVG9rZW46RFRreWJwdGp6b0t5Vlp4bnBONGNiVjd3bmRjXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+![74677420410](readme.assets/1746774204106.png)
+
 在点击之前，一定要注意！科技云已登陆
 接下来按照指示走即可。
 点击即可跳转到科技云进行认证：
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=YWNmN2EzYzU3ZjI3ZWNmYjE1MTNkY2ZlOTYzZmE4YjhfMFFJNTdWUkZaeE1pR2xDdVZuQWhvTzNIanVDTUtuaGRfVG9rZW46U0I3a2JBVTJGbzBzRTd4eFRmWWMyNkh4blpmXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+
+ ![74677423301](readme.assets/1746774233011.png)
+
 最终成功认证效果：
-![image](https://m6tsmtxj3r.feishu.cn/space/api/box/stream/download/asynccode/?code=Njg1NGFkYzBhNjU0NDdkYmFlN2RjNmU3ZWQ2MzVlOWVfcUQxS0xkaHJ5UThpQnpJWGRtek0zTVRiYThNQUw2RHRfVG9rZW46RTlrbmJiYUlXbzNlNWZ4ZGpMYmNpQktKbmxoXzE3NDY3MTQyNDI6MTc0NjcxNzg0Ml9WNA)
+
+![74677424512](readme.assets/1746774245121.png)
 
 ### （2）通过认证后，激活1年pro cursor会员：
 
