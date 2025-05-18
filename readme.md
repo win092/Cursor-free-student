@@ -10,13 +10,15 @@ https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
 备注：激活cn和很多国家被限制了，这几天成功的只能是海外教育邮箱，基本申请成功很快，但是考虑大部分晚来的正经的cn学生是享受不到这次教育优惠，给出下面方案 👇
 
-注册 *硅基流动* 或者其他api平台
+注册 **硅基流动** 或者其他api平台
+
+
 
 ​	推荐硅基流动这个是因为我自己用下来感觉不错，很简单，关键是用邀请码注册能白嫖2000万Tokens，而且官方扣的很少，可以给大多同学爽玩
 
 
 
-★ 用带有邀请码 ***（ZWboIcB3）***的链接注册，官方赠送**2000万Tokens**余额，按量计费也能用挺多次 https://cloud.siliconflow.cn/i/ZWboIcB3 
+★ 用带有邀请码 （*ZWboIcB3*）的链接注册，官方赠送**2000万Tokens**余额，按量计费也能用挺多次 https://cloud.siliconflow.cn/i/ZWboIcB3 
 
 然后创建对应的key 和 复制 baseURL 到cursor中添加模型，就可以和正常使用cursor一样调用ai了， 同理这api也可接入到你的代码、项目中， 用邀请码注册领取**2000万Tokens**先玩玩，就不用自己充值，有推荐的其他好的平台和方案欢迎QQ群聊讨论~
 
