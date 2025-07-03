@@ -4,7 +4,11 @@
 
 https://docs.qq.com/markdown/DSHNKa3hncWFTZGVR
 
-注意是申请的是教育优惠，不是 *破解* 或者 *其他非正规渠道*  不销售账号和学生邮箱！
+注意是为学生开启的项目，申请的是教育优惠，不是 *破解* 或者 *其他非正规渠道*  不销售账号和学生邮箱！
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/DIFFfeng/Cursor-free-student)
+
+
 
 **2025年5月18日新的解决方案 -- 暂留之策**
 
