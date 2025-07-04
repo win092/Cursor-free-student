@@ -17,7 +17,7 @@
 (function() {
     'use strict';
 
-    // todo 有帮助关注我的小红书：4294434234 或者加微信：zhrmghwsa
+    // todo 有帮助关注我的小红书：4294434234 或者加微信： zhrmghwsa
     // 创建一个拦截和修改响应的函数
     const originalFetch = window.fetch;
     window.fetch = async function(url, options) {
